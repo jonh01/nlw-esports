@@ -1,2 +1,2 @@
 # nlw-esports
- NLw Esports Rocketseat
+ NLW Esports Rocketseat
